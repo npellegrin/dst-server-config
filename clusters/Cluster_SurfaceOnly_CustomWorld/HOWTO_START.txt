@@ -1,0 +1,2 @@
+# Start from command line or in a screen :
+./dontstarve_dedicated_server_nullrenderer -cluster Cluster_SurfaceOnly_CustomWorld -shard Master

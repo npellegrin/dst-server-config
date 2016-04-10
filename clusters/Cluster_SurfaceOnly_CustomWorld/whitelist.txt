@@ -1,0 +1,2 @@
+Put here the KU_xx identifiers of the users with reserved slots (one by line)
+Use whitelist_slots param in your cluster.ini file to set reserved slots

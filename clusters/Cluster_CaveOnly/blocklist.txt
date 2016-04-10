@@ -1,0 +1,1 @@
+Put here the KU_xx identitifers of the permanent banned users (one by line)

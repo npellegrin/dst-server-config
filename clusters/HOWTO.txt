@@ -1,0 +1,7 @@
+This directory contains the sample clusters config
+
+You can simply copy the directory you want to run on your server, in .klei/DoNotStarveTogether/
+
+Then, the server can be started with ./dontstarve_dedicated_server_nullrenderer -cluster <cluster name> -shard <world>
+
+Check the file HOWTO_START.txt in each cluster directory to learn how to start it

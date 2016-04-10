@@ -1,0 +1,1 @@
+Put here your server token generated with TheNet:GenerateServerToken()

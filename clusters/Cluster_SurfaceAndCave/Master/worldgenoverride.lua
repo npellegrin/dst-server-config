@@ -1,0 +1,2 @@
+-- Default world
+return {}

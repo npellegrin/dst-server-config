@@ -1,0 +1,6 @@
+
+# Master server before
+./dontstarve_dedicated_server_nullrenderer -cluster Cluster_SurfaceAndCave -shard Master
+
+# Cave server once master is ready
+./dontstarve_dedicated_server_nullrenderer -cluster Cluster_SurfaceAndCave -shard Caves

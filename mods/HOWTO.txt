@@ -1,0 +1,6 @@
+This directory contains the mod configuration you should put on the server side, in the "mods" directory of your don't starve together installation.
+
+This configuration is common to all cluster you are running with a don't starve together installation.
+
+You can of course duplicate the don't starve together installation directory if you want to separate the modded and non-modded executables.
+Note that if your server does not declare the modoverrive.lua file, it will not be modded, even if the don't starve installation contains mods.
